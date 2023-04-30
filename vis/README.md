@@ -9,7 +9,7 @@
 - Use of more readable ticks and labels for the axes (multiples and submultiples of Ohm and Ampère, powers instead of fraction...)
 - Decreased the size of datapoints, so we can read their values more easily, and plotted them over the fitting line
 - Use of a complete box around the graph (not very useful but it makes it better looking, at least for me)
-- Changed the style of grid lines from solid to dashed, here we are interested in the trend of the datas (in particular we want to verify that the inverse of the current $I^{-1}$ and the resistance $R$ are linearly correlated), we don't really need to read their exact values so we hide unnecessary lines and focus only on the fitting line and the datas themselves. Nevertheless we use a dahsed grid in the case someone wants to get an idea of the values we measured.
+- Changed the style of grid lines from solid to dashed, here we are interested in the trend of the datas (in particular we want to verify that the inverse of the current $I^{-1}$ and the resistance $R$ are linearly correlated), we don't really need to read their exact values so we hide unnecessary lines and focus only on the fitting line and the datas themselves. Nevertheless we use a dashed grid in the case someone wants to get an idea of the values we measured.
 
 ## Code
 For the left graph:
